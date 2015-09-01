@@ -7,7 +7,7 @@ Just open a connection to an Oracle DB, with a stopwatch
 mvn clean package
 ```
 
-### Runing
+### Running
 
 Create a property file like :
 
