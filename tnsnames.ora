@@ -1,0 +1,4 @@
+xxxxx_tns=
+ (DESCRIPTION=
+   (ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1539))
+   (CONNECT_DATA=(SERVICE_NAME=xxxxx)))
